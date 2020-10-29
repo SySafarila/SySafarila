@@ -2,7 +2,6 @@
 #### I'm a PHP, and Javascript programmer.
 I love to learn something new in my life.
 
-Skills: PHP => Native, Laravel | Javascript => Native, ReactJS | CSS => Native, Bootstrap, Tailwind.
 
 🔭 I’m currently working on this page. 🌱 I’m currently learning ReactJS 📫 How to reach me: sysafarila.official@gmail.com ⚡ Fun fact: I have a lot of cat. 
 
